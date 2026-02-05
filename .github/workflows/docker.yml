@@ -29,5 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
-
+          tags: ghcr.io/ajsal9020/auto-forward-bot:latest
